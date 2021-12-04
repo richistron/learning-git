@@ -19,7 +19,7 @@ sudo apt install git
 ssh-keygen –t rsa
 ```
 
-Run `cat ~/.ssh/id_rsa.put` and bopy the output and put it into https://github.com/settings/keys 
+Run `cat ~/.ssh/id_rsa.pub` and bopy the output and put it into https://github.com/settings/keys 
 
 ### Setup email and name
 ```

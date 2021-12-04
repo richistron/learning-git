@@ -10,3 +10,4 @@ and remember to add the question label to the ticket.
 * [init](docs/init.md)
 * [clone](docs/clone.md)
 * [add](docs/add.md)
+* [status](docs/status.md)
