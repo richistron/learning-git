@@ -6,4 +6,4 @@ and remember to add the question label to the ticket.
 
 # Topics
 
-* [Installation](docs/installation.md)
+* [Setting up git](docs/setup.md)
