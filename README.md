@@ -9,3 +9,4 @@ and remember to add the question label to the ticket.
 * [Setting up git](docs/setup.md)
 * [init](docs/init.md)
 * [clone](docs/clone.md)
+* [add](docs/add.md)
