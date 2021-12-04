@@ -11,3 +11,4 @@ and remember to add the question label to the ticket.
 * [clone](docs/clone.md)
 * [add](docs/add.md)
 * [status](docs/status.md)
+* [commit](docs/commit.md)

@@ -21,3 +21,11 @@ Example:
 ```
 git add .
 ```
+
+Interactive: This will open an interactive screen in order to add the wanted
+changes
+
+Example:
+```
+git add -i
+```
