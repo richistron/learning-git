@@ -13,3 +13,4 @@ and remember to add the question label to the ticket.
 * [status](docs/status.md)
 * [commit](docs/commit.md)
 * [branch](docs/branch.md)
+* [checkout](docs/checkout.md)
