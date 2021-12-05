@@ -19,3 +19,4 @@ and remember to add the question label to the ticket.
 * [fetch](docs/fetch.md)
 * [pull](docs/pull.md)
 * [log](docs/log.md)
+* [reset](docs/reset.md)
