@@ -17,3 +17,4 @@ and remember to add the question label to the ticket.
 * [merge](docs/merge.md)
 * [push](docs/push.md)
 * [fetch](docs/fetch.md)
+* [pull](docs/pull.md)
