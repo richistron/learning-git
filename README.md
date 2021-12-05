@@ -12,3 +12,4 @@ and remember to add the question label to the ticket.
 * [add](docs/add.md)
 * [status](docs/status.md)
 * [commit](docs/commit.md)
+* [branch](docs/branch.md)
