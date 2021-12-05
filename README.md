@@ -22,3 +22,4 @@ and remember to add the question label to the ticket.
 * [reset](docs/reset.md)
 * [revert](docs/revert.md)
 * [config](docs/config.md)
+* [gitignore](docs/gitignore.md)
