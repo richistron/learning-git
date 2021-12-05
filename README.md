@@ -18,3 +18,4 @@ and remember to add the question label to the ticket.
 * [push](docs/push.md)
 * [fetch](docs/fetch.md)
 * [pull](docs/pull.md)
+* [log](docs/log.md)
