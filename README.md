@@ -15,3 +15,4 @@ and remember to add the question label to the ticket.
 * [branch](docs/branch.md)
 * [checkout](docs/checkout.md)
 * [merge](docs/merge.md)
+* [push](docs/push.md)
