@@ -20,3 +20,4 @@ and remember to add the question label to the ticket.
 * [pull](docs/pull.md)
 * [log](docs/log.md)
 * [reset](docs/reset.md)
+* [revert](docs/revert.md)
