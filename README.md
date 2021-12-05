@@ -16,3 +16,4 @@ and remember to add the question label to the ticket.
 * [checkout](docs/checkout.md)
 * [merge](docs/merge.md)
 * [push](docs/push.md)
+* [fetch](docs/fetch.md)
