@@ -21,3 +21,4 @@ and remember to add the question label to the ticket.
 * [log](docs/log.md)
 * [reset](docs/reset.md)
 * [revert](docs/revert.md)
+* [config](docs/config.md)
